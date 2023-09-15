@@ -1,2 +1,2 @@
 # Estufa-ATP
- Atividade pratica da diciplina Internet das coisas
+ Atividade pratica da diciplina Internet das coisas.
